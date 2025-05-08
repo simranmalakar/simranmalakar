@@ -70,15 +70,6 @@ I'm a passionate <strong>Cybersecurity Enthusiast</strong> who thrives at the in
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simranmalakar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simranmalakar&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
 ## 🎯 Goal
 
 > _“Cybersecurity is not just a skill, it’s a mindset.”_  
