@@ -20,10 +20,6 @@ I'm a passionate <strong>Cybersecurity Enthusiast</strong> who thrives at the in
 
 ## 🛡️ My Cyber Arsenal
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
-
 ### 🔴 Red Teaming
 - 🛠️ Ethical Hacking & VAPT
 - 🌐 Web Application Security (OWASP Top 10)
