@@ -20,28 +20,28 @@ I'm a passionate <strong>Cybersecurity Enthusiast</strong> who thrives at the in
 
 ## 🛡️ My Cyber Arsenal
 
-### 🔴 Red Teaming
-- 🛠️ Ethical Hacking & VAPT
-- 🌐 Web Application Security (OWASP Top 10)
-- 🧰 Tools: `Burp Suite` | `Nmap` | `SQLmap` | `Nikto` | `Metasploit` | `Hydra`
+### Red Teaming
+-  Ethical Hacking & VAPT
+-  Web Application Security (OWASP Top 10)
+-  Tools: `Burp Suite` | `Nmap` | `SQLmap` | `Nikto` | `Metasploit` | `Hydra`
 
-### 🔵 Blue Teaming
-- 🚨 Threat Detection & Incident Response
-- 📊 Log Analysis & SIEM: `Splunk`, `ELK`
-- 🌐 Network Security & Monitoring: `Wireshark`, `Security Onion`
-- 🧠 Windows & Linux Forensics
+###  Blue Teaming
+-  Threat Detection & Incident Response
+-  Log Analysis & SIEM: `Splunk`, `ELK`
+-  Network Security & Monitoring: `Wireshark`, `Security Onion`
+-  Windows & Linux Forensics
 
-### ☁️ Cloud Security
-- ☁️ Securing AWS Environments
-- 🔐 IAM Best Practices
-- 📈 Cloud Logging & Monitoring
+### Cloud Security
+-  Securing AWS Environments
+-  IAM Best Practices
+-  Cloud Logging & Monitoring
 
 ---
 
-## 🧪 Currently Working On
-- 🕵️‍♀️ A **30-Day Purple Teaming Challenge** — Real-world attack and defense scenarios
-- 📝 Blogging about cybersecurity on [Medium](https://medium.com/@simran.malakar)
-- 🧠 Practicing on **TryHackMe**, **Hack The Box**, **CyberDefenders**, and **PortSwigger**
+##  Currently Working On
+-  A **30-Day Purple Teaming Challenge** — Real-world attack and defense scenarios
+-  Blogging about cybersecurity on [Medium](https://medium.com/@simran.malakar)
+-  Practicing on **TryHackMe**, **Hack The Box**, **CyberDefenders**, and **PortSwigger**
 
 ---
 
