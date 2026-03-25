@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm <span style="color:#f9826c;">Simran Malakar</span></h1>
 
 <p align="center">
-🚀 <b>Cybersecurity Enthusiast | Blue & Red Teamer | Ethical Hacker | Threat Hunter</b>  
+🚀 <b>Offensive Security Enthusiast | Red Teamer | Ethical Hacker</b>  
 </p>
 
 <p align="center">
@@ -12,61 +12,77 @@
 
 ## 👩‍💻 About Me
 
-I'm a passionate <strong>Cybersecurity Enthusiast</strong> who thrives at the intersection of <strong>Offensive</strong> and <strong>Defensive</strong> Security. From simulating real-world attacks to analyzing logs and fortifying cloud environments, I love it all.
+I'm an <strong>Offensive Security Enthusiast</strong> passionate about simulating real-world cyber attacks to uncover vulnerabilities before adversaries do. I focus on <strong>breaking systems ethically</strong>, identifying weaknesses, and understanding attacker methodologies to strengthen security from an adversarial perspective.
 
-💡 I believe in a **Purple Teaming mindset**, blending the best of Red and Blue to outsmart attackers and secure systems effectively.
-
----
-
-## 🛡️ My Cyber Arsenal
-
-### Red Teaming
--  Ethical Hacking & VAPT
--  Web Application Security (OWASP Top 10)
--  Tools: `Burp Suite` | `Nmap` | `SQLmap` | `Nikto` | `Metasploit` | `Hydra`
-
-###  Blue Teaming
--  Threat Detection & Incident Response
--  Log Analysis & SIEM: `Splunk`, `ELK`
--  Network Security & Monitoring: `Wireshark`, `Security Onion`
--  Windows & Linux Forensics
-
-### Cloud Security
--  Securing AWS Environments
--  IAM Best Practices
--  Cloud Logging & Monitoring
+💡 I approach security with an <strong>attacker-first mindset</strong>, continuously learning how systems fail under pressure and how they can be exploited.
 
 ---
 
-##  Currently Working On
--  A **30-Day Purple Teaming Challenge** — Real-world attack and defense scenarios
--  Blogging about cybersecurity on [Medium](https://medium.com/@simran.malakar)
--  Practicing on **TryHackMe**, **Hack The Box**, **CyberDefenders**, and **PortSwigger**
+## ⚔️ Offensive Security Arsenal
+
+### 🔴 Core Skills
+
+* Penetration Testing (Web, Network, API)
+* Vulnerability Assessment & Exploitation
+* Privilege Escalation & Post-Exploitation
+* Reconnaissance & Enumeration Techniques
+* Password Attacks & Brute Force Strategies
+
+### 🌐 Web Application Security
+
+* OWASP Top 10 Exploitation
+* SQL Injection, XSS, CSRF, IDOR
+* Authentication & Session Attacks
+
+### 🛠️ Tools & Frameworks
+
+* `Burp Suite` | `Nmap` | `SQLmap` | `Metasploit`
+* `Gobuster` | `ffuf` | `Nikto` | `Hydra`
+* `Wireshark` (traffic analysis for exploitation insights)
+
+---
+
+## ☁️ Offensive Cloud Security
+
+* Identifying Misconfigurations in AWS Environments
+* IAM Exploitation Techniques
+* Cloud Enumeration & Privilege Escalation
+
+---
+
+## 🎯 Currently Working On
+
+* 🔥 A **30-Day Red Teaming Challenge** — Hands-on attack simulations
+* 🧪 Practicing labs on:
+
+  * TryHackMe
+  * Hack The Box
+  * PortSwigger Web Security Academy
+* ✍️ Writing technical blogs on Medium (focused on exploits & walkthroughs)
 
 ---
 
 ## 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/simran-profile/" target="_blank" title="Connect with me on LinkedIn">
+  <a href="https://www.linkedin.com/in/simran-profile/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@simran.malakar" target="_blank" title="Read my blogs on Medium">
+  <a href="https://medium.com/@simran.malakar" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="#" target="_blank" title="Check out my Resume">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Resume%20&%20Portfolio-E60023?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  💬 Feel free to reach out for collaboration, mentorship, or just a good cyber chat! ⚡
+  💬 Open to collaborations, CTFs, and offensive security discussions ⚡
 </p>
-
 
 ---
 
-## 🎯 Goal
+## 🧠 Mindset
 
-> _“Cybersecurity is not just a skill, it’s a mindset.”_  
-> 🧠 Let's connect, collaborate, and secure the digital world together! 🌐🔐
+> *“Think like an attacker. Break like a hacker. Secure like a professional.”*
+> 🔐 Offensive Security is not just a skill — it’s a strategy.
