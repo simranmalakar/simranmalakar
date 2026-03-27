@@ -42,26 +42,6 @@ I'm an <strong>Offensive Security Enthusiast</strong> passionate about simulatin
 
 ---
 
-## ☁️ Offensive Cloud Security
-
-* Identifying Misconfigurations in AWS Environments
-* IAM Exploitation Techniques
-* Cloud Enumeration & Privilege Escalation
-
----
-
-## 🎯 Currently Working On
-
-* 🔥 A **30-Day Red Teaming Challenge** — Hands-on attack simulations
-* 🧪 Practicing labs on:
-
-  * TryHackMe
-  * Hack The Box
-  * PortSwigger Web Security Academy
-* ✍️ Writing technical blogs on Medium (focused on exploits & walkthroughs)
-
----
-
 ## 🔗 Let's Connect
 
 <p align="center">
