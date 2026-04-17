@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there! I'm <span style="color:#f9826c;">Simran Malakar</span></h1>
+**<h1 align="center">👋 Hey there! I'm <span style="color:#f9826c;">Simran Malakar</span></h1>
 
 <p align="center">
 🚀 <b>Offensive Security Enthusiast | Red Teamer | Ethical Hacker</b>  
@@ -66,3 +66,4 @@ I'm an <strong>Offensive Security Enthusiast</strong> passionate about simulatin
 
 > *“Think like an attacker. Break like a hacker. Secure like a professional.”*
 > 🔐 Offensive Security is not just a skill — it’s a strategy.
+**
